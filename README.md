@@ -11,7 +11,7 @@ How do ESG-based trading strategies perform compared to benchmarks?
 Data Sources
 
 ESG Data: S&P 500 ESG Risk Ratings from Kaggle
-Stock Data: Historical price data for Apple, Tesla, Microsoft, and S&P 500 index
+Stock Data: Historical price data for Apple, Tesla, Microsoft, and S&P 500 index from Yahoo Finance
 
 Methodologies
 
@@ -55,9 +55,9 @@ Threshold-based approach
 
 Key Findings
 
-Minimal correlation between ESG metrics and daily stock returns
-High ESG stocks demonstrate slightly lower volatility compared to low ESG stocks
-Technical indicators dominate feature importance, with ESG metrics showing limited direct impact on short-term returns
-Advanced ML models can achieve R² scores of up to 0.62-0.68 when combining ESG data with technical factors
-Buy & Hold strategy outperformed other approaches in backtesting
-Monte Carlo simulations reveal significant range of potential outcomes in ESG-focused portfolios
+1. Minimal correlation between ESG metrics and daily stock returns
+2. High ESG stocks demonstrate slightly lower volatility compared to low ESG stocks
+3. Technical indicators dominate feature importance, with ESG metrics showing limited direct impact on short-term returns
+4. Advanced ML models can achieve R² scores of up to 0.62-0.68 when combining ESG data with technical factors
+5. Buy & Hold strategy outperformed other approaches in backtesting
+6. Monte Carlo simulations reveal significant range of potential outcomes in ESG-focused portfolios
